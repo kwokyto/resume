@@ -12,6 +12,8 @@ I am currently studying for a (Hons.) Degree in Information Security + Universit
 
 Links: [Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) \| [USP](https://www.usp.nus.edu.sg/)
 
+---
+
 ## Smart Nation Scholarship
 
 * 2019
@@ -19,6 +21,8 @@ Links: [Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) \|
 Awarded the Smart Nation Scholarship that develops and nurtures technology talents and leaders within public service. I will be serving a 4 year bond with the Cyber Security Agency of Singapore upon graduation.
 
 Links: [Scholarship Guide](https://scholarshipguide.com.sg/content/interviews/smart-nation-scholarship-passion-to-defend-our-cyberspace/) \| [BrightSparks](https://brightsparks.com.sg/magazine/july-2020/smartnation-tech-nation.php) \| [ZaoBao](https://www.zaobao.com.sg/news/singapore/story20190831-985215)
+
+---
 
 ## Raffles Junior College
 
