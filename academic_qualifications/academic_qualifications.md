@@ -10,7 +10,7 @@ Determination and perseverance in my studies have allowed me to achieve my acade
 
 I am currently studying for a (Hons.) Degree in Information Security + University Scholars Programme. USP is a multidisciplinary programme that challenges me to be adventurous and critical in thought, to have a broad range of intellectual interests.
 
-[Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) | [USP](https://www.usp.nus.edu.sg/)
+[Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) \| [USP](https://www.usp.nus.edu.sg/)
 
 ## Smart Nation Scholarship
 
@@ -18,7 +18,7 @@ I am currently studying for a (Hons.) Degree in Information Security + Universit
 
 Awarded the Smart Nation Scholarship that develops and nurtures technology talents and leaders within public service. I will be serving a 4 year bond with the Cyber Security Agency of Singapore upon graduation.
 
-[Scholarship Guide](https://scholarshipguide.com.sg/content/interviews/smart-nation-scholarship-passion-to-defend-our-cyberspace/) | [BrightSparks](https://brightsparks.com.sg/magazine/july-2020/smartnation-tech-nation.php) | [ZaoBao](https://www.zaobao.com.sg/news/singapore/story20190831-985215)
+[Scholarship Guide](https://scholarshipguide.com.sg/content/interviews/smart-nation-scholarship-passion-to-defend-our-cyberspace/) \| [BrightSparks](https://brightsparks.com.sg/magazine/july-2020/smartnation-tech-nation.php) \| [ZaoBao](https://www.zaobao.com.sg/news/singapore/story20190831-985215)
 
 ## Raffles Junior College
 
