@@ -6,8 +6,8 @@ I aim to further my passion in cybersecurity by continuously learning new skills
 
 ## Contents
 
-* Academic Qualifications
-* Technical Skills
-* Personal Projects
-* Work Experience
-* Sailing Awards
+* [Academic Qualifications](academic_qualifications/academic_qualificataion.md)
+* [Technical Skills](technical_skills/technical_skills.md)
+* [Personal Projects](personal_projects/personal_projects.md)
+* [Work Experience](work_experience/work_experience.md)
+* [Sailing Awards](sailing_awards/sailing_awards.md)
