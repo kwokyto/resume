@@ -10,6 +10,8 @@ This Telegram bot was created for the photo booth during the Start of Semester 2
 
 Links: [GitHub Pages](https://kwokyto.github.io/queueing-bot/) \| [Telegram Bot](https://telegram.me/sos2021photoboothbot)
 
+---
+
 ## Befriender by Love, USP
 
 A platform created based on loneliness in university, especially for freshman during the COVID19 pandemic.
@@ -18,6 +20,8 @@ This Telegram bot serves as a safe space for USP students to anonymously meet ne
 
 Links: [GitHub Pages](https://kwokyto.github.io/befriender-telegram-bot/) \| [Telegram Bot](https://telegram.me/anonchatbetabot)
 
+---
+
 ## Anonymous by Love, USP
 
 A safe space for USP students to hold meaningful conversations about mental health.
@@ -25,6 +29,8 @@ A safe space for USP students to hold meaningful conversations about mental heal
 This Telegram bot simulates a group chat where students can share experience or advice, while remaining completely anonymous. This was coded in Python.
 
 Links: [GitHub Pages](https://kwokyto.github.io/anonymous-telegram-bot/) \| [Telegram Bot](https://telegram.me/anongroupbetabot)
+
+---
 
 ## Sailing Race Officer Guide
 
