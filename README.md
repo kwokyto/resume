@@ -6,7 +6,7 @@ I aim to further my passion in cybersecurity by continuously learning new skills
 
 ## Contents
 
-* Academics
+* Academic Qualifications
 * Technical Skills
 * Personal Projects
 * Work Experience
