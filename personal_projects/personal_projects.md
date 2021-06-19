@@ -16,7 +16,7 @@ Links: [GitHub Pages](https://kwokyto.github.io/queueing-bot/) \| [Telegram Bot]
 
 A platform created based on loneliness in university, especially for freshman during the COVID19 pandemic.
 
-This Telegram bot serves as a safe space for USP students to anonymously meet new friends on a private chat. In addition, with mental health as the primary focus of Love, USP, this bot serves as an avenue for students to share their struggles in school and life on a personal and secret basis.This was coded in Python.
+This Telegram bot serves as a safe space for USP students to anonymously meet new friends on a private chat. In addition, with mental health as the primary focus of Love, USP, this bot serves as an avenue for students to share their struggles in school and life on a personal and secret basis. This was coded in Python.
 
 Links: [GitHub Pages](https://kwokyto.github.io/befriender-telegram-bot/) \| [Telegram Bot](https://telegram.me/anonchatbetabot)
 
