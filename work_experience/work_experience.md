@@ -1,6 +1,6 @@
 # Work Experience
 
-[< Back to Home](../README/md)
+[< Back to Home](../README.md)
 
 ## Teaching Assistant, National University of Singapore
 

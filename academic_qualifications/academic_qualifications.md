@@ -1,6 +1,6 @@
 # Academic Qualifications
 
-[< Back to Home](../README/md)
+[< Back to Home](../README.md)
 
 Determination and perseverance in my studies have allowed me to achieve my academic best. My passion lies in cybersecurity, inspired by the TV show Mr Robot. My natural sensitivity to numbers and logical thinking magnetised me to coding while my thirst for new challenges to conquer allowed me to enjoy the constantly evolving world of cybersecurity.
 

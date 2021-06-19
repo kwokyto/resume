@@ -1,6 +1,6 @@
 # Sailing Awards
 
-[< Back to Home](../README/md)
+[< Back to Home](../README.md)
 
 ## Sportsboy / Sportsgirl Meritorious Award
 
