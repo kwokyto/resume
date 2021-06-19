@@ -2,6 +2,16 @@
 
 [< Back to Home](../README.md)
 
+## Intern, Strategy (CSA)
+
+### May 2021 - July 2021
+
+* Research into international and local regulations in cybersecurity of AI, cloud, and telecommunications
+* Research in future regulations of human augmentation, space technology, and quantum computing
+* Provide reccomendations to superiors on Singapore's regulatory direction in each cybersecurity field
+
+---
+
 ## Teaching Assistant, National University of Singapore
 
 ### January 2021 - June 2021
@@ -12,7 +22,7 @@
 
 ---
 
-## Intern, Cyber Security Agency
+## Intern, Cyber Security Programme Centre (CSA)
 
 ### February 2020 - July 2020
 
