@@ -4,7 +4,7 @@
 
 I’ve had the honor of being a part of the Optimist National Team from 2010 - 2014 where I represented Singapore in various international competitions. I was awarded the Sportsboy/ Sportsgirl Meritorious Award by the Singapore National Olympic Council for the following events.
 
-!()
+![sailing_photo](sailing.jpg)
 
 ### IODA Optimist Asians Championship 2014
 
