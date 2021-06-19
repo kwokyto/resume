@@ -1,7 +1,5 @@
 # RYAN KWOK
 
----
-
 kwokyto@gmail.com \| +65 90263693
 
 ![profile_picture](profile_picture.jpg)
