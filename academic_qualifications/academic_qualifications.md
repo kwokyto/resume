@@ -10,7 +10,7 @@ Determination and perseverance in my studies have allowed me to achieve my acade
 
 I am currently studying for a (Hons.) Degree in Information Security + University Scholars Programme. USP is a multidisciplinary programme that challenges me to be adventurous and critical in thought, to have a broad range of intellectual interests.
 
-Links: [Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) \| [USP](https://www.usp.nus.edu.sg/)
+Links: [Modules Taken](modules_taken.md) \| [Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) \| [USP](https://www.usp.nus.edu.sg/)
 
 ---
 
