@@ -2,7 +2,7 @@
 
 ---
 
-[kwokyto@gmail.com](mailto:kwokyto@gmail.com) \| +65 90263693
++65 9026 3693 \| [ryankwok@u.nus.edu](mailto:ryankwok@u.nus.edu)
 
 ![profile_picture](profile_picture.jpg)
 
@@ -12,8 +12,8 @@ I aim to further my passion in cybersecurity by continuously learning new skills
 
 * [Academic Qualifications](academic_qualifications/academic_qualifications.md)
 * [Technical Skills](technical_skills/technical_skills.md)
-* [Personal Projects](personal_projects/personal_projects.md)
 * [Work Experience](work_experience/work_experience.md)
+* [Personal Projects](personal_projects/personal_projects.md)
 * [Sailing Awards](sailing_awards/sailing_awards.md)
 
 View my resume in PDF [here](resume/ryan_kwok.pdf).
