@@ -8,7 +8,7 @@
 
 ## EC Council
 
-* [Certified Ethical Hacker](certificates/certified_ethical_hack_cert.pdf)
+* [Certified Ethical Hacker](certificates/certified_ethical_hacker_cert.pdf)
 * [Computer Hacking and Forensics Investigator](certificates/computer_hacking_forensics_investigator_cert.pdf)
 
 ## Google Cloud Certified
