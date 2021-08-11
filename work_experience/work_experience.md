@@ -14,11 +14,10 @@
 
 ## Teaching Assistant, National University of Singapore
 
-### January 2021 - June 2021
+### January 2021 - Present
 
+* CS2113 Software Engineering & Object-Oriented Programming
 * CS1010X Programming Methodology (Python)
-* Graded assignments
-* Guide students in understanding content.
 
 ---
 
