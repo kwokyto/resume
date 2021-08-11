@@ -8,7 +8,7 @@
 
 * Research into international and local regulations in cybersecurity of AI, cloud, and telecommunications
 * Research in future regulations of human augmentation, space technology, and quantum computing
-* Provide reccomendations to superiors on Singapore's regulatory direction in each cybersecurity field
+* Provide recommendations to superiors on Singapore's regulatory direction in each cybersecurity field
 
 ---
 
