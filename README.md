@@ -2,7 +2,7 @@
 
 ---
 
-+65 9026 3693 \| [ryankwok@u.nus.edu](mailto:ryankwok@u.nus.edu)
++65 9026 3693 \| [ryankwok@comp.nus.edu.sg](mailto:ryankwok@comp.nus.edu.sg)
 
 ![profile_picture](profile_picture.jpg)
 
