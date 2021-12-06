@@ -22,7 +22,7 @@ A queue system on Telegram
 
 The initial version of this Telegram bot was created for the photo booth during the Start of Semester 2 Dinner 2021. It allows users to join the queue, while giving admins the ease of managing late and missing users. It was very well received and was subsequently adapted for use during the End of Semester 2 Dinner 2021. This was coded in Python.
 
-A new, currently live, version of the bot was created with additional features inspired from the original. Now, all notifications to users in the queue are automatic, and the queue now operates with a more efficient "bump" system. Although this new version was created for a Ground Up Initiative, the event was ultimately cancelled due to Covid19 restrictions.
+A new, currently live, version of the bot was created with additional features inspired from the original. Now, all notifications to users in the queue are automatic, and the queue now operates with a more efficient "bump" system. Although this new version was created for a Ground Up Initiative, the event was ultimately cancelled due to Covid19 restrictions. This new version was then used during the End of Semester 1 Dinner 2021.
 
 Live version: [Documentation](https://kwokyto.github.io/usp-queue-bot/) \| [Telegram Bot](https://telegram.me/uspqueuebot)
 
