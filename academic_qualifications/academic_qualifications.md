@@ -10,7 +10,9 @@ Determination and perseverance in my studies have allowed me to achieve my acade
 
 I am currently studying for a (Hons.) Degree in Information Security + University Scholars Programme. USP is a multidisciplinary programme that challenges me to be adventurous and critical in thought, to have a broad range of intellectual interests.
 
-In Semester 2 of my first year, I was also placed on the [USP Honour Roll](awards/usp_honour_roll.pdf) for meritorious academic performance and contributions beyond the classroom. - [Verification](https://www.credential.net/a9ba7437-4144-4150-a86d-da9a743ae162)
+In Semester 2 of my first year, I was placed on the [USP Honour Roll](awards/usp_honour_roll.pdf) for meritorious academic performance and contributions beyond the classroom. - [Verification](https://www.credential.net/a9ba7437-4144-4150-a86d-da9a743ae162)
+
+I was also commended as one of the top students of the module (CS2113 Software Engineering & Object-Oriented Programming). - [Commendation Letter](awards/cs2113_commendation_letter.pdf)
 
 Links: [Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) \| [USP](https://www.usp.nus.edu.sg/)
 
