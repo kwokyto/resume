@@ -2,7 +2,7 @@
 
 [< Back to Home](../README.md)
 
-I’ve had the honor of being a part of the Optimist National Team from 2010 to 2014 where I represented Singapore in various international competitions. I was awarded the [Sportsboy/ Sportsgirl Meritorious Award](https://www.singaporeolympics.com/singapore-sports-awards/) by the Singapore National Olympic Council for the following events.
+I’ve had the honour of being a part of the Optimist National Team from 2010 to 2014 where I represented Singapore in various international competitions. I was awarded the [Sportsboy/ Sportsgirl Meritorious Award](https://www.singaporeolympics.com/singapore-sports-awards/) by the Singapore National Olympic Council for the following events.
 
 ![sailing_photo](sailing.png)
 
