@@ -8,7 +8,7 @@ Determination and perseverance in my studies have allowed me to achieve my acade
 
 * August 2020 - July 2024
 
-I am currently studying for a (Hons.) Degree in Information Security + University Scholars Programme. USP is a multidisciplinary programme that challenges me to be adventurous and critical in thought, to have a broad range of intellectual interests.
+I am currently studying for a (Hons.) Degree in Information Security + University Scholars Programme. USP is a multidisciplinary programme that challenges me to be adventurous and critical in thought, to have a broad range of intellectual interests. Additionally, I am taking on a minor in Philosophy for personal interests.
 
 In Semester 2 of my first year, I was placed on the [USP Honour Roll](awards/usp_honour_roll.pdf) for meritorious academic performance and contributions beyond the classroom. - [Verification](https://www.credential.net/a9ba7437-4144-4150-a86d-da9a743ae162)
 
