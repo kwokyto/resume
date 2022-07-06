@@ -16,7 +16,7 @@ Links: [Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) \|
 
 ---
 
-## Smart Nation Scholarshiphttps://credentials.nus.edu.sg/008a7c14-8cde-4393-a195-b799c837bc95
+## Smart Nation Scholarship
 
 * 2019
 
