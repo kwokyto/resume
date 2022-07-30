@@ -2,6 +2,18 @@
 
 [< Back to Home](../README.md)
 
+## Cyber Security Developer, Amaris.AI
+
+### May 2022 - July 2022
+
+* Involved in project dealing with adversarial AI, deepfake generation and detection, and audio transcription and verification
+* Develop new features for existing cyber security products
+* Develop and integrate components for new cyber security products
+* Implement production-grade software with accordance to professional coding standards and testing with appropriate methodology
+* Write technical documentation
+
+---
+
 ## Intern, Strategy (CSA)
 
 ### May 2021 - July 2021
