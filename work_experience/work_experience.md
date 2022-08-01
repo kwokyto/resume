@@ -28,8 +28,9 @@
 
 ### January 2021 - Present
 
-* CS2113 Software Engineering & Object-Oriented Programming
 * CS1010X Programming Methodology (Python)
+* CS2113 Software Engineering & Object-Oriented Programming
+* IS1108 Digital Ethics and Data Privacy
 
 ---
 
