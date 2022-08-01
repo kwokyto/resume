@@ -40,7 +40,7 @@ Previous beta version: [GitHub Pages](https://kwokyto.github.io/queueing-bot/)
 
 ## Build On, Singapore 2020 Hackathon
 
-In this hackathon, my team achieved semi-finalist by developing "Reliability Bot". It was a Telegram bot that aimed to automate the process of determining how reliable a piece of information was, based on the government's recommendations. Afterwards, it would return a recommendation that is accompanied by reasoning to educate users on how to determine reliability in other pieces of information. The bot scores texts based on three criteria: literacy, sentiments, and Google Search corroboration.
+In this hackathon, my team achieved [Semi-Finalist](./build_on_singapore/build_on_singapore_certificate.pdf) by developing "Reliability Bot". It was a Telegram bot that aimed to automate the process of determining how reliable a piece of information was, based on the government's recommendations. Afterwards, it would return a recommendation that is accompanied by reasoning to educate users on how to determine reliability in other pieces of information. The bot scores texts based on three criteria: literacy, sentiments, and Google Search corroboration.
 
 This project involved the use of AWS solutions, and I was in charge of developing the natural language processing function of the bot. This was done using AWS Comprehend, and coded in Python. The video to our product pitch can be seen [here](build_on_singapore/build_on_singapore_video.mp4).
 
