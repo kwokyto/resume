@@ -16,4 +16,7 @@ I aim to further my passion in cybersecurity by continuously learning new skills
 * [Personal Projects](personal_projects/personal_projects.md)
 * [Sailing Awards](sailing_awards/sailing_awards.md)
 
-View my resume in PDF [here](resume/ryan_kwok.pdf).
+## View in PDF
+
+* [Resume](./resume/ryan_kwok_resume.pdf)
+* [Curriculum Vitae](./resume/ryan_kwok_cv.pdf)
