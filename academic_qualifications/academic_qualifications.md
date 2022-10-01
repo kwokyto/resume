@@ -31,3 +31,5 @@ Links: [Scholarship Guide](https://scholarshipguide.com.sg/content/interviews/sm
 * January 2016 - December 2017
 
 Completed A-Levels with 5 As in Mathematics, Chemistry, Physics, Chinese, and Project Work, and a B in Knowledge and Inquiry.
+
+[< Back to Home](../README.md)
