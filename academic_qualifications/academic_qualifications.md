@@ -20,7 +20,7 @@ Links: [Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) \|
 
 * 2019
 
-Awarded the Smart Nation Scholarship that develops and nurtures technology talents and leaders within public service. I will be serving a 4-year bond with the Cyber Security Agency of Singapore upon graduation.
+Awarded the Smart Nation Scholarship that that develops and nurtures technology talents within public service into next-generation leaders who will spearhead Singapore’s digital transformation. I will be serving a 4-year bond with the Cyber Security Agency of Singapore upon graduation.
 
 Links: [Scholarship Guide](https://scholarshipguide.com.sg/content/interviews/smart-nation-scholarship-passion-to-defend-our-cyberspace/) \| [BrightSparks](https://brightsparks.com.sg/magazine/july-2020/smartnation-tech-nation.php) \| [ZaoBao](https://www.zaobao.com.sg/news/singapore/story20190831-985215)
 
@@ -30,6 +30,6 @@ Links: [Scholarship Guide](https://scholarshipguide.com.sg/content/interviews/sm
 
 * January 2016 - December 2017
 
-Completed A-Levels with 5 As in Mathematics, Chemistry, Physics, Chinese, and Project Work, and a B in Knowledge and Inquiry.
+Completed the Singapore-Cambridge General Certificate of Education Advanced Level in Mathematics (A), Chemistry (A), Physics (A), Chinese (A), Project Work (A), and Knowledge and Inquiry (B).
 
 [< Back to Home](../README.md)

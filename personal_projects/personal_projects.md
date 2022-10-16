@@ -4,7 +4,7 @@
 
 ## Chilling Sessions
 
-Chilling Sessions was a ground up initiative spearheaded by Love, USP and organised by me. The goal of this GUI is to remind USP students to take a break from work to improve their mental health, and educate them on other unorthodox methods of relaxing. In this week-long event, I brought together 5 separate collaborations with various student-led groups to conduct several activities with the focus of relaxing to improve mental health.
+Chilling Sessions was a ground up initiative that I orchestrated and directed as part of the Love, USP EXCO team. The goal of this GUI is to remind USP students to take a break from work to improve their mental health, and educate them on other unorthodox methods of relaxing. In this week-long event, I coordinated 5 separate collaborations with various student-led groups to conduct several activities with the focus of relaxing to improve mental health.
 
 This initiative was awarded a special $1000 welfare fund by the Residential Life Section of the NUS Office of Student Affairs (OSA) to support the costs of executing this event. Additionally, the event's success resulted it to be featured in a [NUS Residential Life article](https://blog.nus.edu.sg/reslife/2021/11/03/how-to-take-care-of-your-mental-health-tips-from-mental-wellness-groups-on-campus/).
 

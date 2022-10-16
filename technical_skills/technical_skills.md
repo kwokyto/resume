@@ -15,7 +15,7 @@
 
 * [Associate Cloud Engineer](certificates/associate_cloud_engineer_cert.pdf) - [Verification](https://www.credential.net/85801647-2369-44f1-ac17-4ae20ec523e4?key=9766e6dada990fb439946af039fa377d0afbe87d4edb89201f92c066a75af4ac)
 
-## CITREP Courses
+## Courses Attended
 
 * [Certified Blockchain Specialist](certificates/certified_blockchain_specialist_cert.pdf)
 * [React Native 101](certificates/react_native_101_cert.pdf)
