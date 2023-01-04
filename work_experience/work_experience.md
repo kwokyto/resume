@@ -30,7 +30,7 @@
 
 * CS1010X Programming Methodology (January - July 2021 and January - April 2022)
 * CS2113 Software Engineering & Object-Oriented Programming (August - November 2021)
-* IS1108 Digital Ethics and Data Privacy (August - November 2022)
+* IS1108 Digital Ethics and Data Privacy (August - November 2022 and January - April 2023)
 
 ---
 
