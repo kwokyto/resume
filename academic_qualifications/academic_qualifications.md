@@ -21,7 +21,7 @@ Links: [Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) \|
 
 ## Smart Nation Scholarship
 
-### 2019
+### August 2019
 
 Awarded the Smart Nation Scholarship that that develops and nurtures technology talents within public service into next-generation leaders who will spearhead Singapore’s digital transformation. I will be serving a 4-year bond with the Cyber Security Agency of Singapore upon graduation.
 
