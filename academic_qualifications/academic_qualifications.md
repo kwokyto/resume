@@ -6,11 +6,16 @@ Determination and perseverance in my studies have allowed me to achieve my acade
 
 ## National University of Singapore
 
-* August 2020 - July 2024
+### August 2020 - July 2024
 
-I am currently studying for a (Hons.) Degree in Information Security + University Scholars Programme. USP is a multidisciplinary programme that challenges me to be adventurous and critical in thought, to have a broad range of intellectual interests. Additionally, I am taking on a minor in Philosophy for personal interests.
+I am currently studying for a (Hons.) Degree in Information Security + University Scholars Programme (USP). USP is a multidisciplinary programme that challenges me to be adventurous and critical in thought, to have a broad range of intellectual interests. Additionally, I am taking on a minor in Philosophy for personal interests.
 
-In Semester 2 of my 1st year, I was placed on the [USP Honour Roll](awards/usp_honour_roll.pdf) ([Verification](https://www.credential.net/a9ba7437-4144-4150-a86d-da9a743ae162)) for meritorious academic performance and contributions beyond the classroom. I was also given a [commendation letter](awards/cs2113_commendation_letter.pdf) for being one of the top students of the module (CS2113 Software Engineering & Object-Oriented Programming). Additionally, in Semester 2 of my 2nd year, I was also placed on the [Dean's List](awards/deans_list_y2s2.pdf) ([Verification](https://credentials.nus.edu.sg/008a7c14-8cde-4393-a195-b799c837bc95)) for my outstanding academic performance.
+Due to my academic performance and contributions beyond the classroom, I have also been awarded the following:
+
+* Year 1 Semester 2 [USP Honour Roll](awards/usp_honour_roll.pdf) - [Verification](https://www.credential.net/a9ba7437-4144-4150-a86d-da9a743ae162)
+* Year 1 Semester 2 [CS2113 Commendation Letter](awards/cs2113_commendation_letter.pdf)
+* Year 2 Semester 2 [Dean's List](awards/deans_list_y2s2.pdf) - [Verification](https://credentials.nus.edu.sg/008a7c14-8cde-4393-a195-b799c837bc95)
+* Year 3 Semester 1 [Dean's List](awards/deans_list_y3s1.pdf) - [Verification](https://credentials.nus.edu.sg/e8ddc7ff-d4be-4b78-9349-194a172f0d2d)
 
 Links: [Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) \| [USP](https://www.usp.nus.edu.sg/)
 
@@ -18,7 +23,7 @@ Links: [Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) \|
 
 ## Smart Nation Scholarship
 
-* 2019
+### 2019
 
 Awarded the Smart Nation Scholarship that that develops and nurtures technology talents within public service into next-generation leaders who will spearhead Singapore’s digital transformation. I will be serving a 4-year bond with the Cyber Security Agency of Singapore upon graduation.
 
@@ -28,7 +33,7 @@ Links: [Scholarship Guide](https://scholarshipguide.com.sg/content/interviews/sm
 
 ## Raffles Junior College
 
-* January 2016 - December 2017
+### January 2016 - December 2017
 
 Completed the Singapore-Cambridge General Certificate of Education Advanced Level in Mathematics (A), Chemistry (A), Physics (A), Chinese (A), Project Work (A), and Knowledge and Inquiry (B).
 
