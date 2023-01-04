@@ -18,4 +18,4 @@
 ## View in PDF
 
 * [Resume](./resume/ryan_kwok_resume.pdf)
-* Kindly contact me for my Curriculum Vitae
+* Kindly contact me for my Curriculum Vitae or Transcript
