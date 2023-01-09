@@ -26,11 +26,12 @@
 
 ## Teaching Assistant, National University of Singapore
 
-### January 2021 - November 2022
+### January 2021 - April 2023
 
 * CS1010X Programming Methodology (January - July 2021 and January - April 2022)
 * CS2113 Software Engineering & Object-Oriented Programming (August - November 2021)
 * IS1108 Digital Ethics and Data Privacy (August - November 2022 and January - April 2023)
+* IFS4102 Digital Forensics (January - April 2023)
 
 ---
 
