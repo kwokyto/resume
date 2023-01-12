@@ -14,6 +14,7 @@ Due to my academic performance and contributions beyond the classroom, I have al
 * Year 1 Semester 2 [CS2113 Commendation Letter](awards/cs2113_commendation_letter.pdf)
 * Year 2 Semester 2 [Dean's List](awards/deans_list_y2s2.pdf) - [Verification](https://credentials.nus.edu.sg/008a7c14-8cde-4393-a195-b799c837bc95)
 * Year 3 Semester 1 [Dean's List](awards/deans_list_y3s1.pdf) - [Verification](https://credentials.nus.edu.sg/e8ddc7ff-d4be-4b78-9349-194a172f0d2d)
+* Year 3 Semester 1 [IS3103 Top Student](awards/is3103_top_student.pdf) - [Verification](https://www.credential.net/6eefeb26-e738-4b45-becd-f5524f2db194)
 
 Links: [Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) \| [USP](https://www.usp.nus.edu.sg/)
 
