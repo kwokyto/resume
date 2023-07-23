@@ -2,18 +2,22 @@
 
 [< Back to Home](../README.md)
 
-## CompTIA
+## Certifications
 
+### 2023
+
+* [AWS Certified Cloud Practitioner](certificates/aws_certified_cloud_practitioner.pdf)
+* [Microsoft Certified: Azure AI Fundamentals](certificates/azure_ai_fundamentals.pdf)
+
+### 2021
+
+* [Associate Cloud Engineer](certificates/associate_cloud_engineer_cert.pdf) - [Verification](https://www.credential.net/85801647-2369-44f1-ac17-4ae20ec523e4?key=9766e6dada990fb439946af039fa377d0afbe87d4edb89201f92c066a75af4ac)
 * [CompTIA Security+](certificates/security_plus_cert.pdf) - [Verification](https://www.credly.com/badges/c43fb391-cc0b-45f4-b83b-ac3eeae0dab9)
 
-## EC Council
+### 2019
 
 * [Certified Ethical Hacker](certificates/certified_ethical_hacker_cert.pdf)
 * [Computer Hacking and Forensics Investigator](certificates/computer_hacking_forensics_investigator_cert.pdf)
-
-## Google Cloud Certified
-
-* [Associate Cloud Engineer](certificates/associate_cloud_engineer_cert.pdf) - [Verification](https://www.credential.net/85801647-2369-44f1-ac17-4ae20ec523e4?key=9766e6dada990fb439946af039fa377d0afbe87d4edb89201f92c066a75af4ac)
 
 ## Courses Attended
 

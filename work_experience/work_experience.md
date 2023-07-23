@@ -2,7 +2,18 @@
 
 [< Back to Home](../README.md)
 
-## Cyber Security Developer, Amaris.AI
+## Cyber Trust Intern, Ensign InfoSecurity Pte Ltd
+
+### May 2023 - July 2023
+
+* Streamlined the Cybersecurity Code of Practice (CCoP) audit process by creating a comprehensive Request for Information (RFI) master list
+* Strengthened risk scenarios with technical detail by mapping the MITRE framework to the CCoP
+* Enhanced cybersecurity intelligence database for clients by cleaning and consolidating open-sourced data from MITRE and the Electronic Transactions Development Agency (ETDA)
+* Evaluated IT systems and design controls against the CCoP, ISO27001, and the PDPA
+
+---
+
+## Cyber Security Developer, Amaris.AI Pte Ltd
 
 ### May 2022 - July 2022
 
