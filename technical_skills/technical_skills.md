@@ -21,6 +21,7 @@
 
 ## Courses Attended
 
+* [(ISC)2 CISSP Training Course](certificates/cissp_training_course.pdf)
 * [Certified Blockchain Specialist](certificates/certified_blockchain_specialist_cert.pdf)
 * [React Native 101](certificates/react_native_101_cert.pdf)
 * [Certified Internet of Things Specialist](certificates/certified_internet_of_things_specialist_cert.pdf)
