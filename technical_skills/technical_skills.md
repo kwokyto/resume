@@ -22,11 +22,11 @@
 ## Courses Attended
 
 * [(ISC)2 CISSP Training Course](certificates/cissp_training_course.pdf)
+* [Certified Machine Learning Specialist](certificates/certified_machine_learning_specialist_cert.pdf)
+* [Deep Learning with TensorFlow and Python](certificates/deep_learning_with_tensorflow_and_python_cert.pdf)
+* [Certified Internet of Things Specialist](certificates/certified_internet_of_things_specialist_cert.pdf)
 * [Certified Blockchain Specialist](certificates/certified_blockchain_specialist_cert.pdf)
 * [React Native 101](certificates/react_native_101_cert.pdf)
-* [Certified Internet of Things Specialist](certificates/certified_internet_of_things_specialist_cert.pdf)
-* [Deep Learning with TensorFlow and Python](certificates/deep_learning_with_tensorflow_and_python_cert.pdf)
-* [Certified Machine Learning Specialist](certificates/certified_machine_learning_specialist_cert.pdf)
 
 ## Coding Literacy
 
