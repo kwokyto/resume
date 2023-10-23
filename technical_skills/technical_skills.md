@@ -6,6 +6,7 @@
 
 ### 2023
 
+* Associate of (ISC)2 - [Verification](https://www.credly.com/badges/86fb94f8-3005-4488-ad90-53a8cba5773b/public_url)
 * [Microsoft Certified: Azure AI Fundamentals](certificates/azure_ai_fundamentals.pdf)
 * [AWS Certified Cloud Practitioner](certificates/aws_certified_cloud_practitioner.pdf)
 
@@ -37,6 +38,7 @@
 
 ## Development Experience
 
+* Django
 * React Framework
 * Docker
 * Virtual Machines

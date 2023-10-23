@@ -6,7 +6,7 @@
 
 ### August 2020 - July 2024
 
-I am currently studying for a (Hons.) Degree in Information Security + University Scholars Programme (USP). USP is a multidisciplinary programme that challenges me to be adventurous and critical in thought, to have a broad range of intellectual interests. Additionally, I am taking on a minor in Philosophy for personal interests.
+I am currently studying for a (Hons.) Degree in [Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) + [University Scholars Programme (USP)](https://www.usp.nus.edu.sg/). USP is a multidisciplinary programme that challenges me to be adventurous and critical in thought, to have a broad range of intellectual interests. Additionally, I am taking on a minor in Philosophy for personal interests.
 
 Due to my academic performance and contributions beyond the classroom, I have also been awarded the following:
 
@@ -16,8 +16,7 @@ Due to my academic performance and contributions beyond the classroom, I have al
 * Year 3 Semester 1 [Dean's List](awards/deans_list_y3s1.pdf) - [Verification](https://credentials.nus.edu.sg/e8ddc7ff-d4be-4b78-9349-194a172f0d2d)
 * Year 3 Semester 1 [IS3103 Top Student](awards/is3103_top_student.pdf) - [Verification](https://www.credential.net/6eefeb26-e738-4b45-becd-f5524f2db194)
 * Year 3 Semester 2 [Dean's List](awards/deans_list_y3s2.pdf) - [Verification](https://credentials.nus.edu.sg/22b9a397-b5ca-479c-b011-ad6348bb15ee)
-
-Links: [Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/) \| [USP](https://www.usp.nus.edu.sg/)
+* Year 4 Semester 1 [USP Senior Honour Roll](awards/usp_senior_honour_roll.pdf) - [Verification](https://credentials.nus.edu.sg/0588cb6c-70d2-4c81-a5bb-80eb9ebccf1a)
 
 ---
 
