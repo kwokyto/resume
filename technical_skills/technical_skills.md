@@ -6,6 +6,7 @@
 
 ### 2023
 
+* [Cisco Certified Network Associate](certificates/cisco_certified_network_associate_certificate.pdf) - [Verification](https://www.credly.com/badges/0e7be18a-1622-49a8-b087-746396dc2608)
 * Associate of (ISC)2 - [Verification](https://www.credly.com/badges/86fb94f8-3005-4488-ad90-53a8cba5773b/public_url)
 * [Microsoft Certified: Azure AI Fundamentals](certificates/azure_ai_fundamentals.pdf)
 * [AWS Certified Cloud Practitioner](certificates/aws_certified_cloud_practitioner.pdf)
