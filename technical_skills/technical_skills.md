@@ -4,6 +4,10 @@
 
 ## Certifications
 
+### 2024
+
+* [Google Cloud Machine Learning Engineer](certificates/google_cloud_machine_learning_engineer_cert.pdf) - [Verification](https://www.credential.net/d892366a-03c4-4b9b-81e1-cdf6d53d102a#gs.3khkke)
+
 ### 2023
 
 * [Cisco Certified Network Associate](certificates/cisco_certified_network_associate_certificate.pdf) - [Verification](https://www.credly.com/badges/0e7be18a-1622-49a8-b087-746396dc2608)
@@ -14,7 +18,7 @@
 ### 2021
 
 * [CompTIA Security+](certificates/security_plus_cert.pdf) - [Verification](https://www.credly.com/badges/c43fb391-cc0b-45f4-b83b-ac3eeae0dab9)
-* [Associate Cloud Engineer](certificates/associate_cloud_engineer_cert.pdf) - [Verification](https://www.credential.net/85801647-2369-44f1-ac17-4ae20ec523e4?key=9766e6dada990fb439946af039fa377d0afbe87d4edb89201f92c066a75af4ac)
+* [Google Cloud Associate Cloud Engineer](certificates/google_cloud_associate_cloud_engineer_cert.pdf) - [Verification](https://www.credential.net/85801647-2369-44f1-ac17-4ae20ec523e4?key=9766e6dada990fb439946af039fa377d0afbe87d4edb89201f92c066a75af4ac)
 
 ### 2019
 
