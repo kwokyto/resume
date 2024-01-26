@@ -2,6 +2,12 @@
 
 [< Back to Home](../README.md)
 
+## Systems Engineer, Cyber Security Engineering Centre (CSA)
+
+### Jan 2024 - Present
+
+* CSDP Programme
+
 ## Cyber Trust Intern, Ensign InfoSecurity Pte Ltd
 
 ### May 2023 - July 2023
