@@ -6,6 +6,8 @@
 
 ### 2024
 
+* [Cisco Certified CyberOps Associate](certificates/cisco_certified_cyberops_associate_certificate.pdf) - [Verification](https://www.credly.com/badges/0e27ae6b-cf45-4a05-8f9e-fcb2f2f14fa9)
+* [Certified Ethical Hacker](certificates/certified_ethical_hacker_cert.pdf)
 * [Google Cloud Machine Learning Engineer](certificates/google_cloud_machine_learning_engineer_cert.pdf) - [Verification](https://www.credential.net/d892366a-03c4-4b9b-81e1-cdf6d53d102a#gs.3khkke)
 
 ### 2023
@@ -23,7 +25,6 @@
 ### 2019
 
 * [Computer Hacking and Forensics Investigator](certificates/computer_hacking_forensics_investigator_cert.pdf)
-* [Certified Ethical Hacker](certificates/certified_ethical_hacker_cert.pdf)
 
 ## Courses Attended
 
