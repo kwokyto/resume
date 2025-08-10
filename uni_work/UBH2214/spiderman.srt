@@ -1,0 +1,1376 @@
+1
+00:00:01,199 --> 00:00:06,830
+Spider-Man. The web slinging, friendly, neighbourhood
+superhero that we all know and love,
+
+2
+00:00:06,830 --> 00:00:09,208
+has always been something Marvel Studios wanted to
+
+3
+00:00:09,208 --> 00:00:14,110
+bring into the Marvel Cinematic Universe, or what we call the MCU.
+
+4
+00:00:14,110 --> 00:00:19,275
+However, the film rights to Spider-Man belong to Sony Pictures exclusively.
+
+5
+00:00:19,275 --> 00:00:21,402
+Over the past two decades,
+
+6
+00:00:21,402 --> 00:00:25,281
+all Spider-Man films have been produced and directed by Sony.
+
+7
+00:00:25,281 --> 00:00:28,358
+Yet, after the release of The Amazing Spider-Man 2,
+
+8
+00:00:28,358 --> 00:00:31,500
+the Spider-Man franchise began on a different path.
+
+9
+00:00:31,500 --> 00:00:33,646
+Through the lens of game theory,
+
+10
+00:00:33,646 --> 00:00:36,157
+let’s zoom in on how Spider-Man has swung his way from
+
+11
+00:00:36,157 --> 00:00:38,710
+being a lone superhero saving New York,
+
+12
+00:00:38,710 --> 00:00:41,067
+to making his entry into the Avengers and
+
+13
+00:00:41,067 --> 00:00:44,670
+saving the world with other superheroes!
+
+14
+00:00:44,670 --> 00:00:46,526
+Before diving into his journey,
+
+15
+00:00:46,526 --> 00:00:50,970
+let’s establish the scope and premise of what we will be talking about today.
+
+16
+00:00:50,970 --> 00:00:54,539
+Firstly, we assume that the information found online is true,
+
+17
+00:00:54,539 --> 00:00:58,000
+since most of this information can only be sourced from leaks
+
+18
+00:00:58,000 --> 00:01:00,280
+ instead of official reports.
+
+19
+00:01:00,280 --> 00:01:04,900
+Next, since merchandising and streaming rights
+are independent of film rights,
+
+20
+00:01:04,900 --> 00:01:08,859
+we will not consider payoffs from merchandising and streaming deals.
+
+21
+00:01:08,859 --> 00:01:14,039
+Instead, we will solely concentrate on the
+payoffs from the movie production deals.
+
+22
+00:01:14,039 --> 00:01:15,509
+To estimate these payoffs,
+
+23
+00:01:15,509 --> 00:01:20,119
+we will use the total box office revenue minus the production cost.
+
+24
+00:01:20,119 --> 00:01:22,497
+With these assumptions in mind,
+
+25
+00:01:22,497 --> 00:01:25,593
+we will explore three different deals between Marvel and Sony,
+
+26
+00:01:25,593 --> 00:01:28,639
+updating this timeline as we move along.
+
+27
+00:01:28,639 --> 00:01:31,272
+For each deal, this is how the game will be played.
+
+28
+00:01:31,272 --> 00:01:35,637
+Marvel wants to use Sony’s Spider-Man and will first make a business pitch,
+
+29
+00:01:35,637 --> 00:01:38,602
+after which Sony is able to respond.
+
+30
+00:01:38,602 --> 00:01:42,577
+If a deal is struck, Marvel will be allowed to use Spider-Man in their films,
+
+31
+00:01:42,577 --> 00:01:46,959
+and in return, will help produce Spider-Man films for Sony.
+
+32
+00:01:46,959 --> 00:01:50,322
+But to decide the split between profits of these solo Spider-Man films,
+
+33
+00:01:50,322 --> 00:01:52,449
+Marvel can make three types of pitches:
+
+34
+00:01:52,449 --> 00:02:00,249
+The weak 5-95 pitch; the medium 25-75 pitch; or the strong 50-50 pitch.
+
+35
+00:02:00,249 --> 00:02:05,669
+These represent the splits in profits between
+Marvel and Sony respectively.
+
+36
+00:02:05,669 --> 00:02:08,650
+Sony will then decide whether to accept or reject that offer.
+
+37
+00:02:08,650 --> 00:02:11,799
+Both players are also allowed to negotiate throughout the process.
+
+38
+00:02:11,799 --> 00:02:16,569
+Now that we have set things straight, let’s begin the journey!
+
+39
+00:02:16,569 --> 00:02:18,536
+Going back to where it all started,
+
+40
+00:02:18,536 --> 00:02:21,418
+after the release of The Amazing Spider-Man 2,
+
+41
+00:02:21,418 --> 00:02:24,271
+it received tremendous backlash from the audience
+
+42
+00:02:24,271 --> 00:02:28,007
+due its poor storyline and subpar screenwriting.
+
+43
+00:02:28,007 --> 00:02:32,087
+Thus, it was expected that the film did poorly in terms of net profits,
+
+44
+00:02:32,087 --> 00:02:37,530
+and garnered numerous scathing reviews from movie critics and fans alike.
+
+45
+00:02:37,530 --> 00:02:41,709
+At this stage, let’s revisit our payoff matrix, with the payoffs added in.
+
+46
+00:02:41,709 --> 00:02:45,954
+To estimate the payoffs of a future Marvel produced Spider-Man movie,
+
+47
+00:02:45,954 --> 00:02:48,608
+we can use the most recent Marvel superhero movie
+
+48
+00:02:48,608 --> 00:02:52,505
+released at the time when The Amazing Spider-Man 2 was still out in theatres,
+
+49
+00:02:52,505 --> 00:02:55,944
+and that would be Captain America: The Winter Soldier.
+
+50
+00:02:55,944 --> 00:02:58,260
+If Marvel were to propose a weak pitch,
+
+51
+00:02:58,260 --> 00:03:01,092
+they would get only $27 million in payoffs,
+
+52
+00:03:01,092 --> 00:03:04,409
+while Sony gets the remaining $517 million.
+
+53
+00:03:04,409 --> 00:03:07,480
+For a medium pitch, Marvel gets $136 million,
+
+54
+00:03:07,480 --> 00:03:10,060
+and Sony gets $408 million.
+
+55
+00:03:10,060 --> 00:03:14,140
+Finally, a strong pitch from Marvel would see profits split equally,
+
+56
+00:03:14,140 --> 00:03:18,319
+with both parties receiving $272 million.
+
+57
+00:03:18,319 --> 00:03:20,903
+Meanwhile, on Sony’s side,
+
+58
+00:03:20,903 --> 00:03:26,362
+they would anticipate their profits for the 
+next Spider-Man film to be $523 million,
+
+59
+00:03:26,362 --> 00:03:31,807
+obtained from averaging the payoffs from
+ the two previous Amazing Spider-Man films.
+
+60
+00:03:31,807 --> 00:03:35,000
+Marvel initially proposed a weak pitch to Sony.
+
+61
+00:03:35,000 --> 00:03:38,771
+This is because Marvel knows that if they
+were to pitch more aggressively,
+
+62
+00:03:38,771 --> 00:03:41,219
+Sony will definitely reject them.
+
+63
+00:03:41,219 --> 00:03:43,406
+The weak pitch was the most viable option
+
+64
+00:03:43,406 --> 00:03:47,980
+since Sony would be rather indifferent to either option.
+
+65
+00:03:47,980 --> 00:03:50,000
+Even though the payoffs are similar,
+
+66
+00:03:50,000 --> 00:03:54,930
+it is evident that Marvel’s deal is much more certain than Sony’s own plans.
+
+67
+00:03:54,930 --> 00:03:59,063
+Sony’s Spider Man films have been on a 
+downtrend trend in terms of revenue,
+
+68
+00:03:59,063 --> 00:04:03,260
+with The Amazing Spider-Man 2 being the lowest ever.
+
+69
+00:04:03,260 --> 00:04:06,493
+At the same time, Marvel’s superhero films have been performing
+
+70
+00:04:06,493 --> 00:04:08,570
+exceptionally well in the box office.
+
+71
+00:04:08,570 --> 00:04:12,241
+Thus, we would expect Sony to go with the
+safer option
+
+72
+00:04:12,241 --> 00:04:16,132
+and accept the weak pitch that Marvel offered.
+
+73
+00:04:16,132 --> 00:04:18,456
+However, this was not the case.
+
+74
+00:04:18,456 --> 00:04:21,543
+To explain why Sony rejected Marvel’s deal,
+
+75
+00:04:21,543 --> 00:04:25,569
+let’s take a look at Sony’s position on the prospect theory curve.
+
+76
+00:04:25,569 --> 00:04:29,570
+Let’s take The Amazing Spider-Man 1 to be Sony’s initial reference point.
+
+77
+00:04:29,570 --> 00:04:34,271
+Since The Amazing Spider-Man 2 grossed
+lower than The Amazing Spider-Man 1,
+
+78
+00:04:34,271 --> 00:04:37,474
+this means that Sony is in the loss zone.
+
+79
+00:04:37,474 --> 00:04:41,370
+From Sony’s perspective, any incremental gain in monetary payoffs
+
+80
+00:04:41,370 --> 00:04:46,179
+would give them much more utility, making them more risk seeking.
+
+81
+00:04:46,179 --> 00:04:50,000
+As such, instead of using monetary payoffs in the game matrix,
+
+82
+00:04:50,000 --> 00:04:53,230
+let’s revisit the matrix in terms of utility.
+
+83
+00:04:53,230 --> 00:04:57,179
+Recalling the numbers, the additional $6 million
+dollars gained
+
+84
+00:04:57,179 --> 00:05:00,607
+if Sony rejects the deal would be substantial,
+
+85
+00:05:00,607 --> 00:05:03,170
+now that they are risk-seeking.
+
+86
+00:05:03,170 --> 00:05:08,460
+In this scenario, even if Sony’s own plans
+were more uncertain than Marvel’s offer,
+
+87
+00:05:08,460 --> 00:05:10,531
+they are unlikely to accept the deal
+
+88
+00:05:10,531 --> 00:05:14,079
+because of the significant difference in utility.
+
+89
+00:05:14,079 --> 00:05:20,257
+Thus, they rejected Marvel’s offer and proceeded
+on with their own plans.
+
+90
+00:05:20,257 --> 00:05:25,267
+However, in a dramatic turn of events, Sony’s email servers were hacked,
+
+91
+00:05:25,267 --> 00:05:28,010
+resulting in a huge email leak.
+
+92
+00:05:28,010 --> 00:05:32,517
+This leak revealed the negotiations between
+Marvel and Sony to the general public,
+
+93
+00:05:32,517 --> 00:05:37,380
+and exposed the fact that Sony rejected a seemingly favourable deal.
+
+94
+00:05:37,380 --> 00:05:40,820
+Given that The Amazing Spider-Man 2 was so poorly received,
+
+95
+00:05:40,820 --> 00:05:44,010
+fans urged Sony to accept Marvel’s offer,
+
+96
+00:05:44,010 --> 00:05:46,870
+given Marvel’s success with superhero films.
+
+97
+00:05:46,870 --> 00:05:51,791
+With this, Sony went back to the negotiation table with Marvel.
+
+98
+00:05:52,840 --> 00:05:55,000
+We now shift our focus to how social pressure
+
+99
+00:05:55,000 --> 00:05:58,120
+has affected Sony's decision following the leak.
+
+100
+00:05:58,120 --> 00:06:01,577
+Now, the game matrix changes in Marvel’s favour.
+
+101
+00:06:01,577 --> 00:06:04,586
+Sony would want to gain the social approval from fans
+
+102
+00:06:04,586 --> 00:06:09,410
+by accepting Marvel’s offer, because it would give them much more utility.
+
+103
+00:06:09,410 --> 00:06:12,077
+This additional utility is reflected in the
+game matrix
+
+104
+00:06:12,077 --> 00:06:15,773
+across all pitches, if Sony accepts the deal.
+
+105
+00:06:15,773 --> 00:06:19,488
+At this point, if they were to choose to produce the films themselves,
+
+106
+00:06:19,488 --> 00:06:23,899
+the utility would be much lower than if they were to accept Marvel’s offer,
+
+107
+00:06:23,899 --> 00:06:26,697
+ and it would also be much more uncertain.
+
+108
+00:06:26,697 --> 00:06:28,262
+Given the social pressure,
+
+109
+00:06:28,262 --> 00:06:30,969
+it is clear that Marvel’s offer is the best choice,
+
+110
+00:06:30,969 --> 00:06:35,237
+both in terms of utility and certainty.
+
+111
+00:06:35,237 --> 00:06:37,864
+To prevent any further loss in profits,
+
+112
+00:06:37,864 --> 00:06:40,295
+and also potentially losing their fans,
+
+113
+00:06:40,295 --> 00:06:42,324
+ Sony gave in to the social pressure
+
+114
+00:06:42,324 --> 00:06:45,603
+and accepted the deal that Marvel had proposed earlier.
+
+115
+00:06:45,603 --> 00:06:50,167
+According to this deal, Marvel would be allowed
+to use Spider-Man in three of the films:
+
+116
+00:06:50,167 --> 00:06:55,524
+Captain America: Civil War, Avengers: Infinity War, and Avengers: Endgame.
+
+117
+00:06:55,524 --> 00:06:59,225
+In return, Marvel will help Sony reboot the
+Spider-Man series,
+
+118
+00:06:59,225 --> 00:07:02,913
+with Spider-Man: Homecoming and Spider-Man: Far from Home.
+
+119
+00:07:02,913 --> 00:07:05,321
+Marvel will also take 5% of the profits,
+
+120
+00:07:05,321 --> 00:07:08,576
+with Sony pocketing the remaining 95%.
+
+121
+00:07:08,576 --> 00:07:13,071
+This time, the films finally broke the downward streak in terms of revenue,
+
+122
+00:07:13,071 --> 00:07:16,323
+receiving praise from critics and fans around the world
+
+123
+00:07:16,323 --> 00:07:19,555
+and redeeming the franchise.
+
+124
+00:07:19,555 --> 00:07:21,671
+After the first deal’s success,
+
+125
+00:07:21,671 --> 00:07:26,200
+fans were excited for a second deal to see more of Spider-Man in the MCU.
+
+126
+00:07:26,200 --> 00:07:30,234
+Let us look at our game matrix for deal number 2.
+
+127
+00:07:30,234 --> 00:07:33,342
+While the previously mentioned movies were
+extremely popular,
+
+128
+00:07:33,342 --> 00:07:37,203
+Sony has also found moderate success in their production of Venom,
+
+129
+00:07:37,203 --> 00:07:40,780
+a movie independent of the MCU setting.
+
+130
+00:07:40,780 --> 00:07:43,249
+While Venom is technically related to Spider-Man,
+
+131
+00:07:43,249 --> 00:07:46,231
+Spider-Man was not involved in this movie.
+
+132
+00:07:46,231 --> 00:07:50,401
+This makes Venom a good underestimate
+of a Sony-produced Spider-Man movie,
+
+133
+00:07:50,401 --> 00:07:53,181
+(if Sony were to reject Marvel’s deal)
+
+134
+00:07:53,181 --> 00:07:57,620
+because Spider-Man is generally more
+popular than Venom in the box-office.
+
+135
+00:07:57,620 --> 00:08:00,794
+Conversely, payoffs from the deal are estimated to be
+
+136
+00:08:00,794 --> 00:08:04,073
+based on profits from Spider-Man: Far From Home,
+
+137
+00:08:04,073 --> 00:08:08,669
+since that is an estimate of how successful a combined effort can be.
+
+138
+00:08:08,669 --> 00:08:10,000
+Just from this table,
+
+139
+00:08:10,000 --> 00:08:13,443
+it seems that Sony is incentivised to continue this partnership,
+
+140
+00:08:13,443 --> 00:08:17,059
+as long as Marvel sticks with their original
+5-95 pitch,
+
+141
+00:08:17,059 --> 00:08:22,903
+ especially after experiencing Spider-Man’s box-office success.
+
+142
+00:08:22,903 --> 00:08:25,131
+Recognising Spider-Man’s potential,
+
+143
+00:08:25,131 --> 00:08:29,425
+Marvel proposed to increase their share to a 50/50 split between the studios,
+
+144
+00:08:29,425 --> 00:08:34,497
+with the possibility of extending the deal to other Spider-Man-related films.
+
+145
+00:08:34,497 --> 00:08:36,529
+Considering the fairness of the deal,
+
+146
+00:08:36,529 --> 00:08:40,400
+Marvel’s proposal for a 50-50 split is reasonable,
+
+147
+00:08:40,400 --> 00:08:43,063
+ because their involvement in the Spider-Man films
+
+148
+00:08:43,063 --> 00:08:47,130
+was a significant reason that heightened the success of Spider-Man,
+
+149
+00:08:47,130 --> 00:08:51,380
+bearing in mind that Sony’s Spider-Man films suffered harsh reviews
+
+150
+00:08:51,380 --> 00:08:54,142
+prior to their collaboration with Marvel.
+
+151
+00:08:54,142 --> 00:08:58,112
+Hence, it seems fair for Marvel to ask for a 50-50 pitch
+
+152
+00:08:58,112 --> 00:09:03,337
+for attributing the success Spider-Man enjoys at this juncture.
+
+153
+00:09:03,337 --> 00:09:08,544
+From Sony’s perspective however, this 50-50 split is not fair.
+
+154
+00:09:08,544 --> 00:09:12,130
+Fairness has to consider the concept of reference
+transactions,
+
+155
+00:09:12,130 --> 00:09:14,430
+which considers the previous deals made.
+
+156
+00:09:14,430 --> 00:09:19,647
+In this case, given the success of a 5-95
+movie deal between Sony and Marvel,
+
+157
+00:09:19,647 --> 00:09:25,000
+Marvel’s deviation from the 5-95 reference 
+is perceived  by Sony to be unfair.
+
+158
+00:09:25,000 --> 00:09:27,604
+Additionally, Sony did not see Marvel as a
+
+159
+00:09:27,604 --> 00:09:31,166
+deserving recipient of 50% of the profits.
+
+160
+00:09:31,166 --> 00:09:34,222
+While it is undeniable that Marvel had a significant role
+
+161
+00:09:34,222 --> 00:09:36,319
+in making Spider-Man great again,
+
+162
+00:09:36,319 --> 00:09:39,139
+the recent successes that Sony has found in Venom,
+
+163
+00:09:39,139 --> 00:09:42,152
+and the animated Spider-Man film, “Into The Spider-Verse”,
+
+164
+00:09:42,152 --> 00:09:48,148
+has made Sony believe that they too, can create good Spider-Man films.
+
+165
+00:09:48,148 --> 00:09:52,831
+Quoting Tony Vinciquerra, the chairman and CEO of Sony Pictures,
+
+166
+00:09:52,831 --> 00:09:57,009
+"The Marvel people are terrific people, we have great respect for them,
+
+167
+00:09:57,009 --> 00:10:01,160
+but on the other hand, we have some pretty terrific people of our own.
+
+168
+00:10:01,160 --> 00:10:03,410
+[Marvel’s producer] didn't do all the work
+
+169
+00:10:03,410 --> 00:10:07,844
+we're pretty capable of doing what we have to do here."
+
+170
+00:10:07,844 --> 00:10:10,990
+While Marvel found the 50-50 split fair,
+
+171
+00:10:10,990 --> 00:10:13,442
+Sony had a low preference for the 50-50 split
+
+172
+00:10:13,442 --> 00:10:15,872
+due to its perceived inequality.
+
+173
+00:10:15,872 --> 00:10:22,031
+As a result, Sony and Marvel were unable to
+reach a new movie deal for Spider-Man.
+
+174
+00:10:22,031 --> 00:10:24,214
+After Far from Home was released,
+
+175
+00:10:24,214 --> 00:10:28,452
+news revealed that further negotiations between Sony and Marvel broke down,
+
+176
+00:10:28,452 --> 00:10:33,046
+as both couldn't reach a new agreement regarding Spider-Man films.
+
+177
+00:10:33,046 --> 00:10:35,874
+This resulted in a more severe fan backlash
+
+178
+00:10:35,874 --> 00:10:40,192
+because of the inconclusive developments in Spider-Man's storyline.
+
+179
+00:10:40,192 --> 00:10:42,424
+As of Spider-Man: Far From Home,
+
+180
+00:10:42,424 --> 00:10:45,570
+the post-credits scene showed the main villain revealing
+
+181
+00:10:45,570 --> 00:10:48,843
+Spider-Man's secret identity to the entire world,
+
+182
+00:10:48,843 --> 00:10:51,958
+framing him as a cold-blooded murderer.
+
+183
+00:10:51,958 --> 00:10:54,305
+If Spider-Man were to leave the MCU,
+
+184
+00:10:54,305 --> 00:10:57,803
+this major cliffhanger might not be properly resolved,
+
+185
+00:10:57,803 --> 00:11:01,248
+and fans were extremely upset.
+
+186
+00:11:01,248 --> 00:11:04,813
+In fact, fans were so upset, that some even threatened
+
+187
+00:11:04,813 --> 00:11:07,862
+to boycott Sony in retaliation to the news.
+
+188
+00:11:07,862 --> 00:11:11,657
+Since Sony is also big in the gaming industry with the PlayStation,
+
+189
+00:11:11,657 --> 00:11:15,067
+fans started the #BoycottSony on Twitter,
+
+190
+00:11:15,067 --> 00:11:19,647
+asking fellow fans to stop buying the new PS4.
+
+191
+00:11:19,647 --> 00:11:22,274
+This is likely because fans could not understand why
+
+192
+00:11:22,274 --> 00:11:27,351
+the two companies could not put aside their differences for the greater good.
+
+193
+00:11:27,351 --> 00:11:30,635
+Ultimately, the social pressure was so powerful
+
+194
+00:11:30,635 --> 00:11:33,844
+that the fans drove Spider-Man actor, Tom Holland,
+
+195
+00:11:33,844 --> 00:11:38,920
+to convince Disney’s CEO, Bob Iger, to renegotiate with Sony,
+
+196
+00:11:38,920 --> 00:11:40,951
+as seen in this interview.
+
+197
+00:11:40,951 --> 00:11:47,217
+[Bob Iger] And after D23, Tom reached out to folks who worked for me and said
+
+198
+00:11:47,217 --> 00:11:50,382
+“Can I please have Bob’s email address or phone number?”.
+
+199
+00:11:50,382 --> 00:11:52,715
+Of course I am very protected so they were very careful.
+
+200
+00:11:52,715 --> 00:11:56,328
+And I said “Sure, have him contact me.” And he did, we spoke,
+
+201
+00:11:56,328 --> 00:12:01,086
+and he basically made a… he cried on the phone.
+[Jimmy Kimmel] Did he really?
+
+202
+00:12:01,086 --> 00:12:05,474
+[Bob Iger] No, not really. (audience laughs)
+
+203
+00:12:05,474 --> 00:12:09,469
+It was clear that he cared so much and actually we care a lot about him.
+
+204
+00:12:09,469 --> 00:12:11,167
+He’s a great Spider-Man isn’t he?
+
+205
+00:12:11,167 --> 00:12:16,175
+[Jimmy Kimmel] He’s the best Spider-Man! (audience cheers)
+
+206
+00:12:16,175 --> 00:12:19,351
+[Bob Iger] I felt.. I actually... I felt for him
+
+207
+00:12:19,351 --> 00:12:22,633
+and it was clear the fans wanted all of this to happen.
+
+208
+00:12:22,633 --> 00:12:24,013
+So after I got off the phone with him,
+
+209
+00:12:24,013 --> 00:12:28,407
+I made a couple of phone calls to our team at Disney Studios
+
+210
+00:12:28,407 --> 00:12:31,617
+and then I decided to call the head of Sony.
+
+211
+00:12:31,617 --> 00:12:34,578
+And I said, “We have to get... We got to figure out a way to get this done,
+
+212
+00:12:34,578 --> 00:12:37,612
+for Tom and for the fans.”
+
+213
+00:12:37,612 --> 00:12:42,570
+This incentivised both companies to continue
+their collaboration for Spider-Man films.
+
+214
+00:12:42,570 --> 00:12:47,290
+We have adjusted the payoff matrix to represent
+the incentives from the social pressure,
+
+215
+00:12:47,290 --> 00:12:50,000
+as reflected by an increase in expected utility
+
+216
+00:12:50,000 --> 00:12:55,000
+for the outcomes where Marvel and Sony successfully make a deal.
+
+217
+00:12:55,000 --> 00:12:57,532
+The consideration of fairness was critical in helping
+
+218
+00:12:57,532 --> 00:13:02,477
+Sony and Marvel come to a compromise from their respective pitches.
+
+219
+00:13:02,477 --> 00:13:04,606
+From the augmented payoff matrix,
+
+220
+00:13:04,606 --> 00:13:08,567
+we find that the medium 25-75 split helps to increase
+
+221
+00:13:08,567 --> 00:13:10,980
+Marvel’s payoff from the previous deal,
+
+222
+00:13:10,980 --> 00:13:13,693
+while also making the outcome attractive to Sony,
+
+223
+00:13:13,693 --> 00:13:16,595
+since Sony’s perceived payoff for accepting the deal
+
+224
+00:13:16,595 --> 00:13:19,100
+now outweighs their payoff for refusing it.
+
+225
+00:13:19,100 --> 00:13:22,409
+Furthermore, the medium 25-75 split
+
+226
+00:13:22,409 --> 00:13:25,854
+is a nice middle ground between Sony and Marvel’s pitches.
+
+227
+00:13:25,854 --> 00:13:31,280
+Thus, making it a nice focal point between Sony’s preferred 5-95 split,
+
+228
+00:13:31,280 --> 00:13:34,375
+and Marvel’s preferred 50-50 split.
+
+229
+00:13:34,375 --> 00:13:38,780
+In the end, Marvel and Sony agreed to a 25-75
+deal,
+
+230
+00:13:38,780 --> 00:13:40,677
+which would cover 2 more films:
+
+231
+00:13:40,677 --> 00:13:45,960
+Spider-Man: No Way Home, and a future MCU team-up movie.
+
+232
+00:13:45,960 --> 00:13:49,102
+Now that we understand how the existing deals came to be,
+
+233
+00:13:49,102 --> 00:13:53,400
+we want to predict how future Marvel - Sony negotiations will go.
+
+234
+00:13:53,400 --> 00:13:57,642
+If Sony were to allow Marvel to produce
+more Spider-Man movies for them,
+
+235
+00:13:57,642 --> 00:13:59,612
+potential payoffs can be estimated
+
+236
+00:13:59,612 --> 00:14:03,424
+by the average of the 3 Spider-Man solo films produced so far.
+
+237
+00:14:03,424 --> 00:14:05,330
+Similarly, without a deal,
+
+238
+00:14:05,330 --> 00:14:10,223
+Sony’s payoff can be estimated by the average of their Venom movies.
+
+239
+00:14:10,223 --> 00:14:14,495
+At first glance, it seems that Sony is likely to accept a deal from Marvel
+
+240
+00:14:14,495 --> 00:14:17,930
+as long as Sony pockets more than half of the profits.
+
+241
+00:14:17,930 --> 00:14:23,420
+However, we need to reconsider Sony’s outside options.
+
+242
+00:14:23,420 --> 00:14:25,696
+Ever since The Amazing Spider-Man franchise,
+
+243
+00:14:25,696 --> 00:14:28,834
+Sony had plans to expand their universe around Spider-Man,
+
+244
+00:14:28,834 --> 00:14:30,885
+to compete with the MCU.
+
+245
+00:14:30,885 --> 00:14:32,532
+In The Amazing Spider-Man 2,
+
+246
+00:14:32,532 --> 00:14:36,060
+Sony teased the introduction of Spider-Man’s biggest villains,
+
+247
+00:14:36,060 --> 00:14:37,510
+the Sinister Six.
+
+248
+00:14:37,510 --> 00:14:40,949
+However, plans were cancelled when The Amazing Spider-Man 2
+
+249
+00:14:40,949 --> 00:14:44,294
+failed in the box office.
+
+250
+00:14:44,294 --> 00:14:48,241
+Nevertheless, Sony’s deals with Marvel gave them a second chance,
+
+251
+00:14:48,241 --> 00:14:51,173
+and Sony successfully produced two Venom films,
+
+252
+00:14:51,173 --> 00:14:54,318
+indicating the birth of the Sony Spider-Man Universe,
+
+253
+00:14:54,318 --> 00:14:56,870
+or what we would call the Sony-verse.
+
+254
+00:14:56,870 --> 00:15:00,939
+Sony’s co-chairman Amy Pascal said in a
+report that because of Venom,
+
+255
+00:15:00,939 --> 00:15:05,029
+Sony’s “previously shelved plans” could now come to fruition.
+
+256
+00:15:05,029 --> 00:15:07,916
+There have also been reports in 2019,
+
+257
+00:15:07,916 --> 00:15:12,170
+that the next seven to eight years of the Sony-verse had been planned.
+
+258
+00:15:12,170 --> 00:15:15,470
+These include movies like Morbius, Kraven the Hunter,
+
+259
+00:15:15,470 --> 00:15:20,670
+ The Sinister Six, Nightwatch, Venom 3 and more.
+
+260
+00:15:20,670 --> 00:15:23,132
+This becomes a new outside option for Sony
+
+261
+00:15:23,132 --> 00:15:26,640
+since the potential payoffs from a Sony-verse is very high.
+
+262
+00:15:26,640 --> 00:15:30,310
+This means that Sony now can still benefit from a large payoff
+
+263
+00:15:30,310 --> 00:15:32,800
+even without a deal with Marvel.
+
+264
+00:15:32,800 --> 00:15:36,824
+If Marvel still wishes to use Spider-Man
+and help Sony produce movies,
+
+265
+00:15:36,824 --> 00:15:39,861
+then they would have to give Sony a larger share of the profits
+
+266
+00:15:39,861 --> 00:15:42,758
+so that Sony would not reject the deal again.
+
+267
+00:15:42,758 --> 00:15:45,880
+However, this does not seem to be Marvel’s goal,
+
+268
+00:15:45,880 --> 00:15:48,827
+as demonstrated in the events of the most recently released
+
+269
+00:15:48,827 --> 00:15:50,827
+Spider-Man: No Way Home.
+
+270
+00:15:53,318 --> 00:15:55,809
+[Dr. Strange] You’ve got to understand that would mean that everyone
+
+271
+00:15:55,809 --> 00:15:59,007
+ who knows and loves you, we…
+
+272
+00:16:00,455 --> 00:16:02,738
+we'd have no memory of you.
+
+273
+00:16:04,203 --> 00:16:06,787
+ it would be as though you never existed.
+
+274
+00:16:09,600 --> 00:16:10,643
+[Spider-Man] I know.
+
+275
+00:16:12,683 --> 00:16:14,134
+Do it.
+
+276
+00:16:15,084 --> 00:16:18,473
+This movie essentially becomes a soft reboot for Spider-Man,
+
+277
+00:16:18,473 --> 00:16:21,611
+because Sony can now utilise him in any way
+
+278
+00:16:21,611 --> 00:16:25,356
+without affecting the storyline flow in the wider MCU.
+
+279
+00:16:25,356 --> 00:16:27,974
+This becomes even better news for Sony
+
+280
+00:16:27,974 --> 00:16:30,720
+because the addition of Spider-Man into the Sony-verse
+
+281
+00:16:30,720 --> 00:16:36,089
+will only boost the utility that Sony can
+get from their outside option.
+
+282
+00:16:36,089 --> 00:16:38,617
+The soft reboot of Spider-Man also indicates that
+
+283
+00:16:38,617 --> 00:16:42,560
+the possibility of massive fan backlash is very low.
+
+284
+00:16:42,560 --> 00:16:45,220
+The social pressure from fans was a key reason
+
+285
+00:16:45,220 --> 00:16:47,834
+for the success of the first two deals.
+
+286
+00:16:47,850 --> 00:16:52,727
+In the first deal, fans were upset because
+they wanted to see Spider-Man in the MCU
+
+287
+00:16:52,727 --> 00:16:55,720
+and face off with popular superheroes.
+
+288
+00:16:55,720 --> 00:17:00,500
+In the second deal, fans were upset because
+Spider-Man’s storyline was incomplete
+
+289
+00:17:00,500 --> 00:17:02,956
+and left on a cliff-hanger that cannot be resolved
+
+290
+00:17:02,956 --> 00:17:05,286
+if Spider-Man leaves the MCU.
+
+291
+00:17:05,286 --> 00:17:08,115
+However, as of Spider-Man: No Way Home,
+
+292
+00:17:08,115 --> 00:17:12,370
+the origin story for Spider-Man has now been satisfactorily concluded.
+
+293
+00:17:12,370 --> 00:17:15,912
+Additionally, because of how No Way Home leaves
+Spider-Man,
+
+294
+00:17:15,912 --> 00:17:19,194
+he can now be in his own stories without involvement of
+
+295
+00:17:19,194 --> 00:17:23,019
+major Marvel superheroes like Dr. Strange or Captain America.
+
+296
+00:17:23,019 --> 00:17:26,412
+Given Sony’s enticing outside option,
+
+297
+00:17:26,412 --> 00:17:29,191
+and the lack of social pressure from fans,
+
+298
+00:17:29,191 --> 00:17:34,669
+we predict that another deal of the same kind
+between Marvel and Sony is highly unlikely,
+
+299
+00:17:34,669 --> 00:17:36,330
+and this makes sense.
+
+300
+00:17:36,330 --> 00:17:39,156
+Sony no longer needs to rely on Marvel’s production team,
+
+301
+00:17:39,156 --> 00:17:42,948
+or the MCU, to develop Spider-Man’s future stories,
+
+302
+00:17:42,948 --> 00:17:46,010
+and the fans would still remain satisfied.
+
+303
+00:17:46,010 --> 00:17:50,210
+However, this does not mean that Spider-Man
+would exit the MCU.
+
+304
+00:17:50,210 --> 00:17:53,388
+In a report, Tom Holland has said that the new agreement
+
+305
+00:17:53,388 --> 00:17:57,820
+between Sony and Marvel would be that it is an open conversation.
+
+306
+00:17:57,820 --> 00:18:01,267
+Should Marvel want him to appear in another of their movies,
+
+307
+00:18:01,267 --> 00:18:05,659
+it would not be the same five-film deal or two-film deal as before.
+
+308
+00:18:05,659 --> 00:18:10,267
+Therefore, we speculate that if Marvel
+wants to use Spider-Man in future films,
+
+309
+00:18:10,267 --> 00:18:14,297
+they will still approach Sony, but with a deal of a different nature.
+
+310
+00:18:14,297 --> 00:18:17,760
+Since Marvel no longer has a stake in Spider-Man solo films,
+
+311
+00:18:17,760 --> 00:18:21,690
+there is no more profit to split between the two companies.
+
+312
+00:18:21,690 --> 00:18:23,966
+Instead, we think that the new deal
+
+313
+00:18:23,966 --> 00:18:26,662
+would mainly be an exchange of characters.
+
+314
+00:18:26,662 --> 00:18:29,409
+In fact, this is what they have been doing.
+
+315
+00:18:29,409 --> 00:18:32,988
+As explained by Sony Pictures’ chairman, Tom Rothman,
+
+316
+00:18:32,988 --> 00:18:37,574
+while Sony lends Spider-Man in Marvel movies, Marvel allows characters like
+
+317
+00:18:37,574 --> 00:18:43,113
+Iron Man and Dr. Strange to appear in Sony’s
+(Spider-Man) Homecoming and No Way Home.
+
+318
+00:18:43,113 --> 00:18:45,952
+Therefore, if Marvel wants to use Spider-Man,
+
+319
+00:18:45,952 --> 00:18:49,115
+and is willing to lend other characters to Sony,
+
+320
+00:18:49,115 --> 00:18:54,570
+it is extremely likely that Sony would cooperate and create a new deal.
+
+321
+00:18:54,570 --> 00:18:58,092
+To recap, we have used various game theory concepts
+
+322
+00:18:58,092 --> 00:19:02,056
+to explain the deals that revived Spider-Man in movies,
+
+323
+00:19:02,056 --> 00:19:06,779
+as well as predict the future of Spider-Man in superhero films.
+
+324
+00:19:06,779 --> 00:19:10,000
+We learnt that there is a common factor among the deals,
+
+325
+00:19:10,000 --> 00:19:13,645
+and we believe that this is the moral of the story here.
+
+326
+00:19:13,645 --> 00:19:15,876
+When dealing with film franchises,
+
+327
+00:19:15,876 --> 00:19:18,789
+we might think that profit is all there is,
+
+328
+00:19:18,789 --> 00:19:20,919
+and that is partially true.
+
+329
+00:19:20,919 --> 00:19:24,540
+However, while decision making is based on profit,
+
+330
+00:19:24,540 --> 00:19:27,971
+it is also strongly influenced by the audience,
+
+331
+00:19:27,971 --> 00:19:32,820
+because there is a large social pressure from fans all over the world.
+
+332
+00:19:32,820 --> 00:19:36,661
+Both Marvel and Sony are large companies with power,
+
+333
+00:19:36,661 --> 00:19:40,680
+and with great power, there must also come great responsibility,
+
+334
+00:19:40,680 --> 00:19:45,118
+and that responsibility is to us fans.
+
