@@ -4,15 +4,19 @@
 
 ## Singapore Univeristy of Technology and Design
 
+### January 2024 - March 2024
+
 I obtained a [ModularMaster in Cybersecurity](https://www.sutd.edu.sg/course/modularmaster-certificate-in-cybersecurity), covering topics in both cybersecurity tools and forensics, and systems amnd networking security.
+
+---
 
 ## National University of Singapore
 
-### August 2020 - July 2024
+### August 2020 - December 2024
 
 I obtained a Bachelor of Computing ([Information Security](https://www.comp.nus.edu.sg/programmes/ug/isc/)) + [University Scholars Programme (USP)](https://www.usp.nus.edu.sg/). USP is a multidisciplinary programme that challenges me to be adventurous and critical in thought, to have a broad range of intellectual interests. Additionally, I took on a minor in Philosophy for personal interests. A collection of my work done during USP and Philosophy modules can be found [here](../uni_work/uni_work.md).
 
-* [Bachelor of Computing (Information Security) with Distinction](/academic_qualifications/certificates/degree_certificate.pdf) - [Verification](/academic_qualifications/certificates/degree_digital_certificate.opencert) | [Verification Site](https://www.nus.edu.sg/registrar/student-records/e-degree-scrolls-and-e-transcripts/verify)
+* [Bachelor of Computing (Information Security) with Distinction](/academic_qualifications/certificates/degree_certificate.pdf) - [Verification](/academic_qualifications/certificates/degree_digital_certificate.opencert) \| [Verification Site](https://www.nus.edu.sg/registrar/student-records/e-degree-scrolls-and-e-transcripts/verify)
 * [University Scholars Programme](/academic_qualifications/certificates/usp_certificate.pdf) - [Verification](https://credentials.nus.edu.sg/060e5465-45bc-4be4-a89a-85478dc871a6)
 
 Due to my academic performance and contributions beyond the classroom, I have also been awarded the following:
