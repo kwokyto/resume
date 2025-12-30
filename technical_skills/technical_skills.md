@@ -10,7 +10,7 @@
 
 ### 2024
 
-* Certified Ethical Hacker - [Theory](certificates/certified_ethical_hacker_theory.pdf) | [Practical](certificates/certified_ethical_hacker_practical.pdf)
+* Certified Ethical Hacker - [Theory](certificates/certified_ethical_hacker_theory.pdf) \| [Practical](certificates/certified_ethical_hacker_practical.pdf)
 * [Cisco Certified CyberOps Associate](certificates/cisco_certified_cyberops_associate.pdf) - [Verification](https://www.credly.com/badges/0e27ae6b-cf45-4a05-8f9e-fcb2f2f14fa9)
 * [Google Cloud Machine Learning Engineer](certificates/google_cloud_machine_learning_engineer.pdf) - [Verification](https://www.credential.net/d892366a-03c4-4b9b-81e1-cdf6d53d102a#gs.3khkke)
 
