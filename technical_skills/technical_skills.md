@@ -4,6 +4,10 @@
 
 ## Certifications
 
+### 2025
+
+* [Android Certified Application Developer](certificates/android_certified_application_developer.pdf)
+
 ### 2024
 
 * Certified Ethical Hacker - [Theory](certificates/certified_ethical_hacker_theory.pdf) | [Practical](certificates/certified_ethical_hacker_practical.pdf)
